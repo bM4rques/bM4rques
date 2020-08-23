@@ -1,4 +1,4 @@
-<img width="auto" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+<img width="auto" src="./img/banner.jpg">
 
 ## Hello everyone! I'm Bruno Marques.
 
