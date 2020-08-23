@@ -1,4 +1,4 @@
-<img width="auto" src="./img/banner.jpg">
+<img width="auto" src="https://github.com/bM4rques/bM4rques/blob/master/img/banner.jpg?raw=true">
 
 ## Hello everyone! I'm Bruno Marques.
 
