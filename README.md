@@ -3,7 +3,7 @@
 ## Hello everyone! I'm Bruno Marques.
 
 I'm a great admirer of technology.
-<br/> I'm a SAP Support Analyst :computer:
+<br/> I'm a SAP B1 Support Analyst :computer:
 <br/>
 <br/>:muscle: I'm working at **Uppertools**
 <br/>:wink: I can help you with SQL queries
