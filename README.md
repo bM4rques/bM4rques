@@ -3,9 +3,9 @@
 ## Hello everyone! I'm Bruno Marques.
 
 I'm a great admirer of technology.
-<br/> I'm a Systems Analyst :computer:
+<br/> I'm a SAP Support Analyst :computer:
 <br/>
-<br/>:muscle: I'm working at **Informatec Group**
+<br/>:muscle: I'm working at **Uppertools**
 <br/>:wink: I can help you with SQL queries
 <br/>:books: I'm studying fullstack development
 <br/>:musical_keyboard: **About me:** I really like to play the keyboard and read sci-fi books :alien:
