@@ -12,4 +12,4 @@ I'm a great admirer of technology.
 <br/>:e-mail: **Contact me:** [![Linkedin Badge](https://img.shields.io/badge/-BrunoMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buenobruno/)](https://www.linkedin.com/in/buenobruno/) | [![Outlook Badge](https://img.shields.io/badge/-bruno.b.marques@hotmail.com-darkblue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:bruno.b.marques@hotmail.com)](mailto:bruno.b.marques@hotmail.com)
 
 ### Certifications:
-<img width="120" src="https://github.com/bM4rques/bM4rques/blob/master/img/scrum-foundation-professional-certificate.png">
+[<img width="110" src="https://github.com/bM4rques/bM4rques/blob/master/img/scrum-foundation-professional-certificate.png">](https://www.youracclaim.com/badges/5c3e91f8-d533-40ae-aea4-da6e82988d1b?source=linked_in_profile)
