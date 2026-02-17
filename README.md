@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/bM4rques/bM4rques/blob/master/img/banner.jpg?raw=true">
+<img width="auto" src="/img/banner.jpg">
 
 ## Hi! I'm Bruno Marques 👋
 
@@ -27,11 +27,13 @@ I build backend services with ABAP, integrate systems, and deliver UI experience
   A project exploring payroll calculation rules and logic.
 
 ### Certifications
-- **ITIL 4 Foundation** (IT Service Management)
+[<img width="110" src="/img/aws-certified-cloud-practitioner.png">](https://www.credly.com/badges/b2af3e05-2e2f-496f-9ad6-cebf01662377/linked_in_profile)
+<img width="110" src="/img/itil_4_foundation.png">
+[<img width="110" src="/img/lifelong-learning.png">](https://www.credly.com/badges/54f5453a-26e7-49c0-93e4-24aec868188b?source=linked_in_profile)
 
 ### Contact
 [![LinkedIn Badge](https://img.shields.io/badge/-Bruno%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buenobruno/)
 [![Email Badge](https://img.shields.io/badge/-bruno.b.marques@hotmail.com-darkblue?style=flat-square&logo=Microsoft&logoColor=white)](mailto:bruno.b.marques@hotmail.com)
 
 ### About me
-I enjoy playing the keyboard 🎹 and reading sci‑fi books 👽
+I enjoy playing the piano 🎹, drinking/making a good coffee ☕ and reading sci‑fi books 👽
