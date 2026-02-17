@@ -3,18 +3,18 @@
 ## Hi! I'm Bruno Marques 👋
 
 Software Engineer working on SAP-based solutions, integrations, and data tooling.
-I build backend services with ABAP (OO), integrate systems (OData/RFC/PI + event-driven on AWS), and deliver UI experiences with SAP UI5 and React.
+I build backend services with ABAP, integrate systems, and deliver UI experiences with SAP UI5.
 
 ### What I work on
-- SAP backend development with ABAP (OO) and clean, maintainable code practices
-- Integrations: OData, RFC, PI, IDocs, and event-driven architecture (AWS)
-- Data modeling and analysis with HANA Views, CDS Views, and Databricks (PySpark/SQL)
+- SAP backend development with ABAP and clean, maintainable code practices.
+- Integrations: OData, RFC and IDocs.
+- Data modeling and analysis with CDS and Hana Views.
 
-### Tech stack (recent)
-**SAP / Backend:** ABAP OO, SAP SD/MM/VMS, SAP Gateway (OData), RFC, PI, IDocs, ABAP Open SQL  
-**UI:** SAP UI5 (Freestyle / Elements), React, TypeScript, JavaScript, HTML, CSS  
-**Data:** HANA, CDS Views, Databricks (Python / PySpark / SQL)  
-**Practices:** Unit testing, refactoring, design patterns, troubleshooting & performance tuning
+### Tech stack
+**SAP / Backend:** ABAP, SAP functional modules (SD/MM/VMS/FI/TRM), SAP Gateway (OData).  
+**UI:** SAP UI5 for Fiori (Freestyle/Elements) applications, JavaScript, HTML, CSS.  
+**Data:** CDS and HANA Views.
+**Practices:** Unit testing, refactoring, design patterns, troubleshooting & performance tuning.
 
 ### Featured projects
 - 🍽️ **pick-my-lunch** *(WIP)*  
@@ -24,7 +24,7 @@ I build backend services with ABAP (OO), integrate systems (OData/RFC/PI + event
   Final project from my MBA program — focused on applying full-stack concepts in a practical project.
 
 - 💰 **payroll-calculations**  
-  A project exploring payroll calculation rules and logic, with an emphasis on correctness and maintainability.
+  A project exploring payroll calculation rules and logic.
 
 ### Certifications
 - **ITIL 4 Foundation** (IT Service Management)
