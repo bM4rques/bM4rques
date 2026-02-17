@@ -1,16 +1,37 @@
 <img width="auto" src="https://github.com/bM4rques/bM4rques/blob/master/img/banner.jpg?raw=true">
 
-## Hello everyone! I'm Bruno Marques.
+## Hi! I'm Bruno Marques 👋
 
-I'm a great admirer of technology.
-<br/> I'm a SAP B1 Support Analyst :computer:
-<br/>
-<br/>:muscle: I'm working at **Uppertools**
-<br/>:wink: I can help you with SQL queries
-<br/>:books: I'm studying fullstack development
-<br/>:musical_keyboard: **About me:** I really like to play the keyboard and read sci-fi books :alien:
-<br/>:e-mail: **Contact me:** [![Linkedin Badge](https://img.shields.io/badge/-BrunoMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buenobruno/)](https://www.linkedin.com/in/buenobruno/) [![Outlook Badge](https://img.shields.io/badge/-bruno.b.marques@hotmail.com-darkblue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:bruno.b.marques@hotmail.com)](mailto:bruno.b.marques@hotmail.com)
+Software Engineer working on SAP-based solutions, integrations, and data tooling.
+I build backend services with ABAP (OO), integrate systems (OData/RFC/PI + event-driven on AWS), and deliver UI experiences with SAP UI5 and React.
 
-### Certifications:
-[<img width="110" src="https://github.com/bM4rques/bM4rques/blob/master/img/SFPC.png">](https://www.youracclaim.com/badges/5c3e91f8-d533-40ae-aea4-da6e82988d1b?source=linked_in_profile)
-[<img width="110" src="https://github.com/bM4rques/bM4rques/blob/master/img/RWVCPC.png">](https://www.credly.com/badges/9bf7eaff-629b-4ed1-9e68-1edf63390db6?source=linked_in_profile)
+### What I work on
+- SAP backend development with ABAP (OO) and clean, maintainable code practices
+- Integrations: OData, RFC, PI, IDocs, and event-driven architecture (AWS)
+- Data modeling and analysis with HANA Views, CDS Views, and Databricks (PySpark/SQL)
+
+### Tech stack (recent)
+**SAP / Backend:** ABAP OO, SAP SD/MM/VMS, SAP Gateway (OData), RFC, PI, IDocs, ABAP Open SQL  
+**UI:** SAP UI5 (Freestyle / Elements), React, TypeScript, JavaScript, HTML, CSS  
+**Data:** HANA, CDS Views, Databricks (Python / PySpark / SQL)  
+**Practices:** Unit testing, refactoring, design patterns, troubleshooting & performance tuning
+
+### Featured projects
+- 🍽️ **pick-my-lunch** *(WIP)*  
+  A personal project in progress. I’m using it to practice building a complete product end-to-end.
+
+- 🎓 **mba-final-project**  
+  Final project from my MBA program — focused on applying full-stack concepts in a practical project.
+
+- 💰 **payroll-calculations**  
+  A project exploring payroll calculation rules and logic, with an emphasis on correctness and maintainability.
+
+### Certifications
+- **ITIL 4 Foundation** (IT Service Management)
+
+### Contact
+[![LinkedIn Badge](https://img.shields.io/badge/-Bruno%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buenobruno/)
+[![Email Badge](https://img.shields.io/badge/-bruno.b.marques@hotmail.com-darkblue?style=flat-square&logo=Microsoft&logoColor=white)](mailto:bruno.b.marques@hotmail.com)
+
+### About me
+I enjoy playing the keyboard 🎹 and reading sci‑fi books 👽
